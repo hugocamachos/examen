@@ -1,0 +1,60 @@
+.container{
+  display:inline-block;
+  position:relative;
+  }
+  
+  .container button{
+  position: absolute;
+  bottom:50em;
+  right:50em;
+  background-color:#eee8aa;
+  border-radius:1.5em;
+  color:white;
+  text-transform:uppercase;
+  padding:1em 1.5em;
+  }
+
+.container button2{
+  position: absolute;
+  bottom:58em;
+  left:30em;
+  background-color:#eee8aa;
+  border-radius:1.5em;
+  color:white;
+  text-transform:uppercase;
+  padding:1em 1.5em;
+  }
+
+.container button3{
+  position: absolute;
+  bottom:58em;
+  left:41em;
+  background: transparent;
+  border-color: #eee8aa;
+  border-width: 1px;
+  border-style: solid;
+  border-radius:1.5em;
+  color:black;
+  text-transform:uppercase;
+  padding:1em 1.5em;
+  }
+
+  .container a{
+  position: absolute;
+  top: 18%;
+  right:41em;
+  font-size: 16px;
+  color: black
+  }
+
+.container .b{
+  position: absolute;
+  left: 260px;
+  top: 80px;
+  }
+
+  .container .menu{
+    position: absolute;
+    left: 260px;
+    top: 80px;
+  }
